@@ -1,0 +1,46 @@
+body{
+    background-color: #edf2f8;
+    margin-top: 25px;
+}
+.bg-violeta{
+    background-color: hsl(263, 55%, 52%);
+}
+
+.opacity-50{
+    opacity: .5;
+}
+
+.opacity-80{
+    opacity: .8;
+}
+
+.bg-quotation{
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0;
+    background-size: 123px;
+}
+
+.rounded-xlg{
+    border-radius: .5rem;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.bg-grayish-blue{
+    background-color: hsl(217, 19%, 35%);
+}
+
+.bg-dark-blackish-blue{
+    background-color: hsl(219, 29%, 14%);
+}
