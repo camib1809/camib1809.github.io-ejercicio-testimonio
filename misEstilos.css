@@ -44,3 +44,8 @@ p{
 .bg-dark-blackish-blue{
     background-color: hsl(219, 29%, 14%);
 }
+
+.pl-3, .px-3 {
+   padding-left: 0px !important;
+}
+
