@@ -49,3 +49,7 @@ p{
    padding-left: 0px !important;
 }
 
+.card-body {
+    padding: 2.25rem;
+}
+
